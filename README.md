@@ -43,7 +43,7 @@ How to Power Bi helps us to clean and manipulate data in an interactive way?
 
 Prior to creating insightful reports in Power BI is important to prepare our data through the following steps.
 
-1. Exploratory data analysis for the hotel’s dataset
+**Exploratory data analysis for the hotel’s dataset**
 
 As previously exposed our dataset contains many rows and columns. We need to know if all the columns are helpful for getting insights or if it is possible to transform data from the columns to adjust report requirements.
 
@@ -73,9 +73,10 @@ Color palette is also relevant in this business case. Therefore it is important 
 
 ### 1.Home
 A main page with a simple navigation menu.
+![home](images/Slide2.png "home")
 
 ### 2.General data
-![tux](images/tux.png "tux")
+![general](images/Slide3.png "general")
 
 A panel that contains relevant information from the dataset. A first approach to our data.
 
@@ -84,12 +85,15 @@ A detailed analysis from the reviewer's information. With this report we cover a
 For every hotel's country. What is the most repeated reviewer nationality?
 What’s the average score depending on its nationality?
 All the data can be filtered by the hotel's country.
+![rev](images/Slide4.png "rev")
 
 ### 4.Rankings
 Top and bottom hotels filtered by country, year and top/bottom 5, 10 or 15 values.
+![top](images/Slide5.png "top")
 
 ### 5.Details 
 Total reviews, total negative and positive reviews. Filtered by hotel, country and specific dates.
+![det](images/Slide6.png "det")
 
 # Publishing report on PowerBI service
 
