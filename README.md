@@ -25,7 +25,8 @@ Create a report page or/and dashboard in Power BI to present results.
 
 # Data Overview
 
-The holiday dataset contains more than 500K rows in 17 columns for luxury hotels across Europe. Data is saved in **csv** format.
+The holiday dataset contains more than **500K** rows in **17 columns** for luxury hotels across Europe. 
+Data is saved in **csv** format.
 
 The dataset is hosted in **Azure Blob Storage**. Thus, we get data in Power BI using the Azure Blob gateway.
 
@@ -33,9 +34,9 @@ The dataset is hosted in **Azure Blob Storage**. Thus, we get data in Power BI u
 
 Using Power BI we need to answer questions that help us create beautiful reports and dashboards:
 
-What can we do with the dataset?
-Which is the best way to present complex data?
-How to Power Bi helps us to clean and manipulate data in an interactive way?
+1. What can we do with the dataset?
+1. Which is the best way to present complex data?
+1. How to Power Bi helps us to clean and manipulate data in an interactive way?
 
 
 
@@ -76,15 +77,14 @@ A main page with a simple navigation menu.
 ![home](images/Slide2.png "home")
 
 ### 2.General data
-![general](images/Slide3.png "general")
-
 A panel that contains relevant information from the dataset. A first approach to our data.
+![general](images/Slide3.png "general")
 
 ### 3.Reviewers
 A detailed analysis from the reviewer's information. With this report we cover a couple of relevant questions:
-For every hotel's country. What is the most repeated reviewer nationality?
-What’s the average score depending on its nationality?
-All the data can be filtered by the hotel's country.
+1. For every hotel's country. What is the most repeated reviewer nationality?
+1. What’s the average score depending on its nationality?
+1. All the data can be filtered by the hotel's country.
 ![rev](images/Slide4.png "rev")
 
 ### 4.Rankings
@@ -107,4 +107,4 @@ Power BI works fine with excel, csv files, JSON, SQL scripts.
 Personally I am glad to start my journey with Power BI and I feel more and more confident using the platform.
 
 
-# Hellow
+
