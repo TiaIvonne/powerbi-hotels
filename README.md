@@ -71,21 +71,24 @@ Color palette is also relevant in this business case. Therefore it is important 
 
 # Data visualization
 
-**1.Home**
+### 1.Home
 A main page with a simple navigation menu.
 
-**2.General data**
+### 2.General data
 ![tux](images/tux.png "tux")
 
 A panel that contains relevant information from the dataset. A first approach to our data.
-**3.Reviewers**
+
+### 3.Reviewers
 A detailed analysis from the reviewer's information. With this report we cover a couple of relevant questions:
 For every hotel's country. What is the most repeated reviewer nationality?
 What’s the average score depending on its nationality?
 All the data can be filtered by the hotel's country.
-**4.Rankings**
+
+### 4.Rankings
 Top and bottom hotels filtered by country, year and top/bottom 5, 10 or 15 values.
-**5.Details**
+
+### 5.Details 
 Total reviews, total negative and positive reviews. Filtered by hotel, country and specific dates.
 
 # Publishing report on PowerBI service
